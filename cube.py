@@ -11,6 +11,8 @@ import numpy.matrixlib
 
 c_size_half = 700 / 2
 
+#test
+
 
 class Vertex:
     '''Вершина'''
